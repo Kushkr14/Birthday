@@ -61,6 +61,8 @@
 </head>
 <body>
   <div class="birthday-card">
+    
+    <img src="https://scontent.famd2-1.fna.fbcdn.net/v/t39.30808-6/463600242_8529499450471644_769580263345237890_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=uAF-391JVlsQ7kNvgFHBCZh&_nc_oc=AdjF_uokrQ3OtxJC86C8hwzbDrKRiDt_hyzsTt1t7_u9_pmgfUT9_sjiq_uhyr_a8w8&_nc_zt=23&_nc_ht=scontent.famd2-1.fna&_nc_gid=Ac0eT_yKSXe6ZLmoTYh4o1I&oh=00_AYFkVkoPzx8_YIv193E0D02kuDR4dn3UvWClpU9AyrCjsw&oe=67D7145D" alt="Bhaiya Image" width="200" height="300">
     <div class="cake">🎂</div>
     <h1>Happy Birthday!</h1>
     <h3>Bhaiya</h3>
@@ -69,3 +71,4 @@
   </div>
 </body>
 </html>
+
